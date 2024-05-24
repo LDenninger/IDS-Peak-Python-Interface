@@ -1,3 +1,8 @@
+"""
+    Camera interface was adopted from: https://github.com/bertan-karacora/nimbro_camera_ids
+"""
+
+
 import importlib.resources as resources
 import threading
 import os
